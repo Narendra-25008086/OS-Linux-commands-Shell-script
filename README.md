@@ -1,4 +1,4 @@
-<img width="598" height="522" alt="image" src="https://github.com/user-attachments/assets/eca8241a-f084-4748-afa1-c2866884c648" /><img width="598" height="522" alt="image" src="https://github.com/user-attachments/assets/cd02b9c0-743c-4807-81b8-efaecc1fec25" /><img width="665" height="517" alt="image" src="https://github.com/user-attachments/assets/2d8c221e-e500-4031-992a-03197465b7f1" /># OS-Linux-commands-Shell-scripting
+# OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
@@ -1131,7 +1131,9 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
+
 ## OUTPUT 
+
 
 
 
