@@ -1133,6 +1133,7 @@ fi
 ```
 
 ## OUTPUT 
+<img width="473" height="105" alt="image" src="https://github.com/user-attachments/assets/9a72b7f8-1bad-452f-83d2-755ee9f27819" />
 
 
 
